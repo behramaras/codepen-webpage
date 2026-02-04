@@ -2,5 +2,4 @@
 
 A Pen created on CodePen.
 
-Original URL: [https://codepen.io/Behram-Aras/pen/xbOzmaQ](https://codepen.io/Behram-Aras/pen/xbOzmaQ).
-
+To visit: [https://behramaras.github.io/codepen-webpage/](https://behramaras.github.io/codepen-webpage/)
